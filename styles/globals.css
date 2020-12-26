@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.nav{
+  padding: 1rem;
+}
+
+.nav-link{
+  margin: 1rem;
+}
